@@ -37,6 +37,14 @@
                     "minimum": "1.80-alpha6",
                     "verified": "1.80-alpha8"
                 }
+            },
+            {
+                "id": "dnd5e",
+                "type": "system",
+                "compatibility": {
+                "minimum": "5.1.0",
+                "maximum": "5.9.99"
+                }
             }
         ],
         "requires": [
@@ -77,9 +85,9 @@
         ]
     },
     "socket": true,
-    "url": "https://github.com/wrycu/StarWarsFFG-Enhancements",
-    "manifest": "https://github.com/wrycu/StarWarsFFG-Enhancements/releases/latest/download/module.json",
-    "download": "https://github.com/wrycu/StarWarsFFG-Enhancements/releases/download/2.1.2/module.zip",
+    "url": "https://github.com/Daxriel/StarWarsFFG-Enhancements",
+    "manifest": "https://github.com/Daxriel/StarWarsFFG-Enhancements/releases/latest/download/module.json",
+    "download": "https://github.com/Daxriel/StarWarsFFG-Enhancements/releases/download/2.1.2/module.zip",
     "license": "LICENSE",
     "readme": "README.md",
     "esmodules": ["ffg-star-wars-enhancements.js"],
